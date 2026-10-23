@@ -29,6 +29,13 @@ AI（Claude Code・Codex・ChatGPT）を開発パートナーにして、**企�
 - Expo（React Native）＋ Firebase（認証・データベース・ストレージ・Cloud Functions）、AdMob 広告
 - 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.smartlaboworks.kajimaru)
 
+<p>
+  <img src="images/kajimaru-1-home.png" width="24%" alt="カジまる ホーム画面">
+  <img src="images/kajimaru-2-chores.png" width="24%" alt="カジまる 家事の一覧">
+  <img src="images/kajimaru-3-requests.png" width="24%" alt="カジまる お願い">
+  <img src="images/kajimaru-4-shopping.png" width="24%" alt="カジまる 買い物リスト">
+</p>
+
 ### MONSTER LABO（モンスターラボ）— モンスター育成バトルゲーム（Google Play で公開中）
 3体のモンスターで戦う、半自動リアルタイムバトルのスマホゲーム。
 - 育成・通常進化と特殊進化・図鑑、ボスのレーザーに合わせて防壁を張るなどの駆け引き
@@ -36,6 +43,13 @@ AI（Claude Code・Codex・ChatGPT）を開発パートナーにして、**企�
 - 新しい章をアプリ更新なしで配信する仕組み、Google Play 課金（サーバーで購入を確認、未成年の月額上限。現在審査中）
 - Phaser 3 ＋ TypeScript ＋ Vite、Capacitor で Android / iOS アプリ化、Firebase、AdMob
 - 🔗 [Google Play](https://play.google.com/store/apps/details?id=jp.smartlabo.monsterlabo)
+
+<p>
+  <img src="images/monsterlabo-title.jpg" width="49%" alt="MONSTER LABO タイトル画面">
+  <img src="images/monsterlabo-home.jpg" width="49%" alt="MONSTER LABO ホーム画面">
+  <img src="images/monsterlabo-battle.jpg" width="49%" alt="MONSTER LABO バトル画面">
+  <img src="images/monsterlabo-monsters.jpg" width="49%" alt="MONSTER LABO モンスター一覧">
+</p>
 
 ### Smart Labo Works ライト — 中小企業向け AI 業務支援サービス（本番運用中）
 「全社員に、AIという戦力を。」をコンセプトにした業務支援 Web サービス。
