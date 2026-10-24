@@ -27,7 +27,7 @@ AI（Claude Code・Codex・ChatGPT）を開発パートナーにして、**企�
 家事の分担と「やったよ」を家族で共有する Android アプリ。企画・デザイン・開発・ストア審査まで担当。
 - 家族グループと招待 QR コード、家事の割り当てと通知、アイコン写真の家族共有
 - Expo（React Native）＋ Firebase（認証・データベース・ストレージ・Cloud Functions）、AdMob 広告
-- 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.smartlaboworks.kajimaru)
+- 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.smartlaboworks.kajimaru) ／ [ソースコード](https://github.com/smartlabosukimagakusyuu-dev/kajimaru)
 
 <p>
   <img src="images/kajimaru-1-home.png" width="24%" alt="カジまる ホーム画面">
